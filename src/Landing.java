@@ -16,7 +16,7 @@ public class Landing {
         while(mastercounter>0){
             int value=master[0];
             int removalCount=landing.clearArray(master,master[0],mastercounter);
-            System.out.println("the number "+value+" has been repeated "+removalCount+" times");
+            System.out.println("the number jenison "+value+" has been repeated "+removalCount+" times");
             mastercounter=mastercounter-removalCount;
         }
 
